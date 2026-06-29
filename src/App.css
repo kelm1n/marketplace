@@ -1,0 +1,22 @@
+/* #769fcd;
+#d6e6f2;
+#b9d7ea;
+#f7fbfc;
+*/
+
+:root {
+  --color-dark: #769fcd;
+  --color-blue: #07689f;
+  --color-cyan: #b9d7ea;
+  --color-white: #f7fbfc;
+}
+
+body {
+  margin: 0;
+  font-family: "Arial";
+  background: var(--color-white);
+}
+
+h1 {
+  color: var(--color-dark);
+}
