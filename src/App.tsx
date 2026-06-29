@@ -1,4 +1,3 @@
-import Card from "./components/Card/Card";
 import CardsList from "./components/CardsList/CardsList";
 import { ICard } from "./types";
 import "./App.css";
